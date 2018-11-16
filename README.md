@@ -1,2 +1,4 @@
-# uaf-rcs-web-docs
+# README
+
 A repository for UAF RCS user documentation
+
